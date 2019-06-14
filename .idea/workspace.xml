@@ -1,352 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e2f922a-ad46-43af-96b3-df119e7f0a6a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/AddressBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/EmailAddressBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/Hello (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/PI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/PI的蒙特卡洛方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/PI的蒙特卡洛方法_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/TeleAddressBook.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/Tele_Email_AddressBook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/bernoulli大数定律.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/bookie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/bookie2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/bookie3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/bookie4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/buybread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/computation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/compute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_def2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_dic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_dic2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_for2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_for_PI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_if_BMI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/exc_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/learning01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/python蛇.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/《统计学》习题计算程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/一元二次方程的实根.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/一元二次方程的实根2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/世界你好.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/中心极限定理验证（指数分布、二项分布）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/二维均匀分布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/二维正态分布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/二维离散随机变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/五角星.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/从文件绘制五角星.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/从文件绘制五角星.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/分类数据分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/印度_汉诺塔游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/去首尾空格.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/弱大数定律.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/找最小最大数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/找素数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/指数分布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/指数分布模拟.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/改小写.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/文件拷贝.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/斐波那契数列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/斐波那契数列生成模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/本金和利息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/杨辉三角.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/树林.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/概率分布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/正态分布.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/温度转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/生成奇偶数数列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/生日快乐歌.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/统计词频.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/统计词频.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/读取文件计算平均数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/转换月份星期.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_code/随机变量数字特征.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_20190615/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/fileTemplates/internal/HTML File.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/fileTemplates/internal/Python Script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/python_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/MySQL_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/create_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/example_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/infile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/mymysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/MySQL_python/mysql_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/bank_customers_account_table.pk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/customers_info_table.pk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/customers_info_table.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/customers_log_in_fault_table.pk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/employee_table.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/encode_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/replace_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/shopping_goods_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/data_files/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/file_handling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/file_handling/file_replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/file_handling/file_transfer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/file_handling/files_auto_classify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/file_handling/readlinex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/games/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/games/poker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/games/role_playing_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/global_settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/computation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/compute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/multiplication_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/pic_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/水仙花数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mathematics/水仙花数2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mydjango/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mydjango/conf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mydjango/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/BasciTabs2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/BasicTab3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/BasicTabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/basictab.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/clearfix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/clock.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/clock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/css_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/css_test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/css_test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/html_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/html_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/inform_check.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/javascript_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/jquery_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/clock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/easyui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/jQuery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/jquery.easyui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/js_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/js_func_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/js/tab2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/login/001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/login/002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/login/003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/login_register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/model.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/shade.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myhtml/ul_inline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/ip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/requests_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/myrequests/search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/client_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/ftp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/ftp_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/ftp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/ftp_s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/ftp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/myparamiko.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/paramiko_interactive_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/redis_subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/redis_subscription_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/redis_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/server_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/socket_select_client_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/socket_select_server_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/socket_server_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mysocket/socket_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/asynchronous.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/managers_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/multi_pro_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/multi_pro_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/multi_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/multi_process2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/p_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/pool_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/process_value_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/producer_consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/thread_run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mythread/thread_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/days_of_month.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/time_count_down.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/timing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/timing_monthly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/mytime/timing_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/check2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/element_index_of_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/element_index_of_list2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/employee_table_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/get_key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/log_in_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/loop_pause.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/students_rank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/verification_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/otherwise/井号阵列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/path_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/path_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/CMDB_api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/CMDB_api/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/CMDB_api/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/CMDB_api/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/app01/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/CMDB_api/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/BLL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/DAL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIClient/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/css/fullscreen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/css/head.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/css/input.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/css/returntop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/head.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/jQuery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/jquery.easyui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/returntop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/js/searchEngine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/operation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/pic/login/001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/pic/login/001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/UIWeb/pic/operation/002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/model/users_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/utility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/ProperNounIndexSyetem/utility/sql_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/client_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/plugins/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/plugins/cpu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/plugins/load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/plugins/memory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/plugins/plugin_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/pythonpathsetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/client/redis_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/hosts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/services/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/services/data_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/services/generic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/services/linux.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/config/templates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/action_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/global_settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/main_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/redis_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/core/serialize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/alarm_system/server/pythonpathsetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/BLL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/BLL/client_server_interaction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/BLL/user_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/DAL/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/UI/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/UI/client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/UI/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/files/data_not_wait_response.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/files/database_operate_anomaly_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/files/users_interaction/张三.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/files/users_interaction/李斯.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/files/users_interaction/王五.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/model/auto_reply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/model/users_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/utility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/utility/files_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/auto_reply_robot/utility/sql_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/bank_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/file_pretreatment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/log_in_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/shop_online.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/business_online/shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/cmdb/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/cmdb/cmdbend/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/cmdb/files/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/cmdb/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/project/cmdb/plugins/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/pythonpathsetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/ceshi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/ceshi.pk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/ceshi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/class_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/color_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/json_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/module_20190515.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/os_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/pickle_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/model/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/utility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/project_test/utility/sql_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/reflex_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/try_except_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/test/wrapper_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_project/自动签到.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_20190615/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/python_20190615/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3e2f922a-ad46-43af-96b3-df119e7f0a6a" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/python_20190615/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python_20190615/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -356,6 +35,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python_20190615/README.md" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
@@ -374,6 +60,11 @@
               <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="python_20190615" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -383,7 +74,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_project/ProperNounIndexSystem" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DataAnalysis\python_learning\python_20190615" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -408,10 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1560530996697</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1560531435714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560531435714</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -443,5 +148,17 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python_20190615/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
