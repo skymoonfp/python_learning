@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data_files/employee_table.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_files/encode_test.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_files/replace_test.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data_files/shopping_goods_list.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/project/auto_reply_robot/files/data_not_wait_response.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/project/auto_reply_robot/files/data_not_wait_response.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test/ceshi.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../python_temp/replace_test.txt" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

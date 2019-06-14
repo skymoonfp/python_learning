@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+
+    <link href="css/input.css" rel="stylesheet">
+    <link href="css/returntop.css" rel="stylesheet">
+    <link href="css/fullscreen.css" rel="stylesheet" type="text/css">
+
+
+    <title>operation</title>
+
+
+    <script src="js/jQuery-3.4.1.js" type="text/javascript"></script>
+    <script src="js/head.js" type="text/javascript"></script>
+    <script src="js/input.js" type="text/javascript"></script>
+    <script src="js/searchEngine.js" type="text/javascript"></script>
+    <script src="js/returntop.js" type="text/javascript"></script>
+
+
+</head>
+
+
+<body>
+
+<div class="full" onmousedown="Stop();" onmouseup="Go();" style="height:100%;width:100%">
+    <div id="header">
+        <form id="header_logo" style="margin:10px;float:left;">
+            <a href="https://www.douban.com/people/skymoon_fp/"><img alt="心齋觀化" height="200" src="pic/login/001.jpg"
+                                                                     width="320"></a>
+        </form>
+
+        <h1 style="margin:0 auto;">
+            <form id="header_link" style="margin:10px;width:50%;float:left;">
+                <div style="margin-top:110px;margin-left:50px;">
+                    <a href="https://www.douban.com/people/skymoon_fp/">心齋觀化的豆瓣</a><br>
+                    <a href="https://github.com/skymoonfp">心齋觀化的GitHub</a>
+                </div>
+            </form>
+        </h1>
+
+        <form id="header_other" style="margin:10px;float:left;">
+
+            <b style="background-color:blue;">便捷功能区</b>
+            <h3>搜索</h3>
+            <select>
+                <option value="1">上海</option>
+                <option selected="selected" value="2">北京</option>
+                <option value="3">广州</option>
+            </select>
+            <h3>网址</h3>
+            <select>
+                <optgroup label="河北省">
+                    <option>石家庄</option>
+                    <option>邯郸</option>
+                </optgroup>
+                <optgroup label="湖北省">
+                    <option>武汉</option>
+                </optgroup>
+                <optgroup label="上海市">
+                    <option>上海</option>
+                </optgroup>
+            </select>
+        </form>
+    </div>
+
+
+    <div id="content_left" style="background-color:#FFD700;height:600px;width:50%;float:left;margin:0 auto;"></div>
+
+    <div id="content_right" style="background-color:#EEEEEE;height:400px;width:50%;float:left;">
+        <div>
+            <h2>快捷搜索</h2>
+
+            <label for="baidu">百度</label><input checked id="baidu" name="search" type="radio" value="baidu">
+            <label for="google">谷歌</label><input id="google" name="search" type="radio" value="google">
+            <label for="sogou">搜狗</label><input id="sogou" name="search" type="radio" value="sogou">
+
+            <br><br>
+            <form action="https://www.baidu.com" id="fsearch" method="get" target="iframe_search">
+                <input id="search_1" name="wd" onblur='Leave("search_1");' onfocus='Enter("search_1");' type="text"
+                       value="请输入搜索内容">
+                <label for="search_1">
+                    <button onclick='SearchEngine();'>search</button>
+                </label>
+            </form>
+
+            <br><br>
+            <iframe frameborder="0" height="500" name="iframe_search" sandbox="allow-scripts"
+                    src="pic/operation/002.png" width=100%>
+            </iframe>
+
+            <div style="width:200px;height:100px;margin:0 auto;">
+                <a href="https://github.com/skymoonfp" target="iframe_a">心齋的GitHub</a>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div id="footer" style="background-color:#FFA500;clear:both;text-align:center;">
+        版权 ? 心齋
+    </div>
+
+
+    <button class="returnTop hide" id="return_top" onclick="GoTop();">返回顶部</button>
+
+
+    <!--                alert($("input[name='search']:checked").val());-->
+    <!--            </script>-->
+
+
+</div>
+</body>
+</html>

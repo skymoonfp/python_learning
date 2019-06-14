@@ -1,0 +1,9 @@
+.full {
+    width:1024px;
+    margin:0 auto;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+    background-color:grey;
+}

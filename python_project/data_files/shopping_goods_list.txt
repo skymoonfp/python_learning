@@ -1,0 +1,12 @@
+===========商品清单===========
+No	commodities	prices
+01	car	60000
+02	iphone	5800
+03	table	888
+04	tv	3333
+05	milk	58
+06	clothes	188
+07	book	66
+08	ice-cream	6.5
+09	pencil	1.8
+===========商品清单===========

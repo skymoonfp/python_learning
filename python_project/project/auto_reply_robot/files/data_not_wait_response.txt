@@ -1,0 +1,4 @@
+Two passwords is not same! Try again! OK?
+登陆成功！Go on！
+You have become a member of us! Have your fun!
+The account is already exiting!

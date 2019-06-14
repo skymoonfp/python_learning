@@ -1,0 +1,13 @@
+.returnTop {
+    position:fixed;
+    height:20px;
+    width:50px;
+    right:20px;
+    bottom:20px;
+    background-color:blue;
+    color:red;
+}
+
+.hide {
+    display:none;
+}

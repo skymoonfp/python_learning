@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>login/register</title>
+
+    <script src="js/jQuery-3.4.1.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            ChangeTab("#tab-menu-title", "tab-menu-body");
+        })
+
+        function ChangTab(title, body) {
+            $(title).children.bind("click", function() {
+                var $menu = $(this);
+                $menu.addClass("current").siblings().removeClass("current");
+
+                var contentValue = $(this).attr("content-to');
+                var $content = $(tab-menu-body).find("div[content='" + contentValue + "']");
+                $content.removeClass("hide").siblings().addClass("hide");
+        }
+
+
+
+
+
+    </script>
+
+    <style>
+        .tab-menu-box {
+            border:1px solid #ddd;
+            margin-bottom:20px;
+        }
+
+        .current {
+            margin-top:-1px;
+            color:#c9033b;
+            background:#fff;
+            height:33px;
+            border-top:2px solid #c9033b;
+            z-index:10;
+        }
+
+        .hide {
+            display:none;
+        }
+
+
+
+
+    </style>
+
+
+</head>
+<body>
+<div class="container">
+
+
+    <div class="tab-menu-box">
+        <div class="menu">
+            <ul id="tab-menu-title">
+                <li class="current" content-to="1">登陆</li>
+                <li content-to="2">注册</li>
+            </ul>
+        </div>
+
+
+        <div class="content" id="tab-menu-body">
+            <div content="1">
+                <label for="username">用户名<input id="username" type="text"></label><br>
+                <label for="password">密&nbsp;&nbsp;码<input id="password" type="password"></label><input
+                    id="password_display" type="checkbox"><br>
+                <button id="login_button">登陆</button>
+            </div>
+
+            <div class="hide" content="2">
+                <label for="username_r">用户名<input id="username_r" type="text"></label><br>
+                <label for="password_r1">密&nbsp;&nbsp;&nbsp;&nbsp;码<input id="password_r1"
+                                                                          type="password"></label><input
+                    id="password_display_r1" type="checkbox"><br>
+                <label for="password_r2">密码确认<input id="password_r2" type="password"></label><input
+                    id="password_display_r2" type="checkbox"><br>
+                <label for="e_mail">Email<input id="e_mail" type="text"></label><br>
+                <label for="identity">身份证号<input id="identity" type="text"></label><br>
+                <button id="register_button">注册</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

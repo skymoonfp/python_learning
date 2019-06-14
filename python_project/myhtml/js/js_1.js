@@ -1,0 +1,1 @@
+alert("中文test_js");

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>Title</title>
+
+
+    <script src="js/jQuery-3.4.1.js"></script>
+
+</head>
+<body>
+
+<div>
+    <h2>快捷搜索</h2>
+
+    <label for="baidu">百度</label><input id="baidu" name="gender" type="radio">
+    <label for="google">谷歌</label><input id="google" name="gender" type="radio">
+    <label for="sougou">搜狗</label><input id="sougou" name="gender" type="radio">
+
+
+    <br><br>
+    <input id="search_1" onblur="Leave();" onfocus="Enter();" type="text" value="搜索内容">
+    <button onclick="">search</button>
+
+    <br><br>
+    <iframe frameborder="0" height="500" name="iframe_search" sandbox="allow-scripts" src=""
+            width=100%>
+    </iframe>
+
+</div>
+
+
+</body>
+</html>

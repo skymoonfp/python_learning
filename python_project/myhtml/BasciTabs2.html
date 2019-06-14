@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" content="text/html" http-equiv="content-type">
+    <title>Title</title>
+
+    <link href="basictab.css" rel="stylesheet" type="text/css">
+
+    <script src="js/jQuery-3.4.1.js"></script>
+    <script src="js/tab2.js"></script>
+
+    <style>
+
+
+
+
+
+        ul.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.pagination li {display: inline;}
+
+ul.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+ul.pagination li a.active {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
+
+ul.pagination li a:hover:not(.active) {background-color: #ddd;}
+
+
+
+
+
+
+
+
+
+    </style>
+
+</head>
+<body>
+
+<!--
+<h2>圆角样式</h2>
+<ul class="pagination">
+  <li><a href="#">«</a></li>
+  <li><a href="#">1</a></li>
+  <li><a class="active" href="#">2</a></li>
+  <li><a href="#">3</a></li>
+  <li><a href="#">4</a></li>
+  <li><a href="#">5</a></li>
+  <li><a href="#">6</a></li>
+  <li><a href="#">7</a></li>
+  <li><a href="#">»</a></li>
+</ul>
+
+-->
+
+
+<!--
+
+    <div class="easyui-tabs tabs-container" style="width: 700px; height: 250px;">
+        <div class="tabs-header" style="width: 700px;">
+            <div class="tabs-scroller-left" style="display: none;"></div>
+            <div class="tabs-scroller-right" style="display: none;"></div>
+            <div class="tabs-wrap" style="width: 698px; margin-right: 0px; margin-left: 0px;">
+                <ul class="tabs" style="height: 32px;">
+                    <li class="tabs-first tabs-selected"><a class="tabs-inner" style="height: 32px; line-height: 30px;" href="javascript:;"><span class="tabs-title">About</span><span class="tabs-icon"></span></a></li>
+                    <li><a class="tabs-inner" style="height: 32px; line-height: 30px;" href="javascript:;"><span class="tabs-title">My Documents</span><span class="tabs-icon"></span></a></li>
+                    <li class="tabs-last"><a class="tabs-inner" style="height: 32px; line-height: 30px;" href="javascript:;"><span class="tabs-title tabs-closable tabs-with-icon">Help</span><span class="tabs-icon icon-help"></span></a><a class="tabs-close" href="javascript:;"></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="tabs-panels" style="width: 700px; height: 215px;">
+
+            <div class="panel panel-htop" style="width: 698px;">
+                <div title="" class="panel-body panel-body-noheader panel-body-noborder" style="padding: 10px; width: 698px; height: 214px;">
+                    <p style="font-size:14px">jQuery EasyUI framework helps you build your web pages easily.</p>
+                    <ul>
+                        <li>easyui is a collection of user-interface plugins based on jQuery.</li>
+                        <li>easyui provides essential functionality for building modem, interactive, javascript applications.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="panel panel-htop" style="width: 698px; display: none;">
+                <div title="" class="panel-body panel-body-noheader panel-body-noborder" style="padding: 10px; width: 698px; height: 214px;">
+            <ul class="easyui-tree tree" data-options="url:'tree_data1.json',method:'get',animate:true"></ul>
+                </div>
+            </div>
+
+            <div class="panel panel-htop" style="width: 698px; display: none;">
+                <div title="" class="panel-body panel-body-noheader panel-body-noborder" style="padding: 10px; width: 698px; height: 214px;" data-options="iconCls:'icon-help',closable:true">
+            This is the help content.
+                </div>
+            </div>
+        </div>
+    </div>
+-->
+
+
+<div class="tab-menu-box1">
+    <div class="menu">
+        <ul id="tab-menu-title">
+            <li class="current" content-to="1">
+                <button>价格趋势</button>
+            </li>
+            <li content-to="2">
+                <button>市场分布</button>
+            </li>
+            <li content-to="3">
+                <button>其他</button>
+            </li>
+        </ul>
+    </div>
+
+    <br><br>
+
+    <div class="content" id="tab-menu-body">
+        <div class="hide" content="1">content1</div>
+        <div content="2">content2</div>
+        <div class="hide" content="3">content3</div>
+    </div>
+</div>
+
+
+</body>
+</html>

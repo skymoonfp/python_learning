@@ -1,0 +1,9 @@
+顾客信息表
+usernames	passwords
+张三	zhangsan666
+李斯	lisi666
+黄帝	huangdi666
+小明	xiaoming666
+Xiaoming	xiaoming666
+Plato	plato666
+Aristotle	aristotle666
