@@ -13,6 +13,7 @@
 """
 
 from nltk.corpus import gutenberg
+from nltk.probability import *
 
 
 class BookTexts(object):
@@ -71,6 +72,21 @@ class BookTexts(object):
         words_contain = [w for w in set(self.texts_words) if w.count(word_contain)]
         return len(words_contain), words_contain
 
+    # 统计词频数
+    def frequency(self, display_count, flag=0):
+        # 不区分大小写
+        if not flag:
+            fd = FreqDist([w.lower() for w in self.texts_words if w.isalpha()])
+        # 区分大小写
+        else:
+            fd = FreqDist([w for w in self.texts_words if w.isalpha()])
+        fd.tabulate(display_count)
+        return fd.B(), fd.N()
+
+    # 特定词出现的频率
+    def frequency_word(self, word):
+        return FreqDist([w for w in self.texts_words]).freq(word)
+
     # 输出函数
     def print_data(self, word, word_length, word_begin, word_contain):
         print("\033[1;35m" + "书名：" + self.book_name + "\033[0m")
@@ -94,3 +110,7 @@ if __name__ == "__main__":
     print(books_list)
     book_texts = BookTexts(books_list[0])
     book_texts.print_data("Emma", 15, "cont", "cont")
+    a, b = book_texts.frequency(20)
+    print(a)
+    print(b)
+    print(book_texts.frequency_word("the"))
