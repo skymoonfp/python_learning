@@ -6,23 +6,31 @@ python专题学习
 
 ######Python网络爬虫与信息提取（网易公开课）
 
-    
+    1. 20190615开始
 
 
 ######用Python玩转数据（2017）（B站）
 
     1. 20190615开始
     
-    2. 20190616结束
-    
-    3. 1-5节（P1 - P34）：数据的获取和处理
+    2. 1-5节（P1 - P34）：数据的获取和处理
        6节（P35 - P40）：数据可视化
        7节（P41 - P47）：GUI
           （P48）：综合应用（从雅虎财经获取股票数据；用GUI展示数据；根据数据绘图）
     
-    4. P27的matplotlib.finance没有了，mpl_finance还不知道怎么用
+    3. P27的matplotlib.finance没有了，mpl_finance还不知道怎么用
     
-    5. P47的PyQt4目前是PyQt5了，而且内容还不太一样：像QWidget类位于PyQt5.QtWidgets模块，而不是PyQt5.QtGui模块；部分参数、字段和方法也对不上号
+    4. P47的PyQt4目前是PyQt5了，而且内容还不太一样：像QWidget类位于PyQt5.QtWidgets模块，而不是PyQt5.QtGui模块；部分参数、字段和方法也对不上号
+    
+    5. 20190616结束
     
 
+######Python教程_600集Python从入门到精通教程（懂中文就能学会）（B站）
+
+    1. 20190616开始
+
+    2. 第1节 操作系统、虚拟机及Linux（Ubuntu版）基础（P3 - P）
+    
+    
+    
     
