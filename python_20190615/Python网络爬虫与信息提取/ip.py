@@ -13,7 +13,6 @@
 """
 
 import requests
-from lxml import etree
 
 
 # def ip_check(url, ip):
@@ -55,18 +54,12 @@ from lxml import etree
 
 
 def ip_check(url, ip):
-    ips = {"ip": ip,
-           "action": "2"}
 
     try:
-        r = requests.get(url, params=ips)
+        r = requests.get(url + ip)
         r.raise_for_status()
         r.encoding = r.apparent_encoding
-        etree_ht = etree.HTML(r.text)
-        content1 = etree_ht.xpath("/html/body/table/tbody/tr[1]/td//h3/text()")
-        content2 = etree_ht.xpath("/html/body/table/tbody/tr[2]/td//h1/text()")
-        content3 = etree_ht.xpath("/html/body/table/tbody/tr[3]/td/u1/li[1]/text()")
-        return content1, content2, content3
+        return r.text
     except Exception as e:
         print("\033[35m")
         print(e)
@@ -75,6 +68,6 @@ def ip_check(url, ip):
 
 
 if __name__ == "__main__":
-    url = "http://www.ip138.com/ips138.asp"
+    url = "http://www.ip138.com/ips1388.asp?ip="
     ip = "192.12.13.111"
     print(ip_check(url, ip))
