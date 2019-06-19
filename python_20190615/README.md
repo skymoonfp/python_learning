@@ -27,6 +27,8 @@ python专题学习
         第四周 第2单元 第一个Scrapy实例；yield；Request, Response, Item及Selector
         第四周 第3单元 实例二：股票数据
 
+    3. 20190619结束
+
 
 ######用Python玩转数据（2017）（B站）
 
